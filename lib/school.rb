@@ -21,7 +21,7 @@ def grade(grade)
 end
 
 def sort(grade)
-  self.roster[grade]
+  self.roster.each do 
 end
 
 end
