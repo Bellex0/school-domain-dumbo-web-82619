@@ -21,7 +21,7 @@ def grade(grade)
 end
 
 def sort(grade)
-  roster[grade].sort
+  self.roster[grade].sort
 end
 
 end
