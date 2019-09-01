@@ -20,7 +20,7 @@ def grade(grade)
   self.roster[grade]
 end
 
-def sort
+def sort(grade)
   self.roster[grade].sort
 end
 
