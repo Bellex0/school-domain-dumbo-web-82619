@@ -12,7 +12,7 @@ class School
   end
 
 def grade(grade)
-  School.roster[grade]
+  self.roster[grade]
 end
 
 end
